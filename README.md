@@ -35,8 +35,8 @@ restarted without losing work.
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (or Docker Engine)
 - 
 ### 1. Clone the repository
-git clone https://github.com/heitorherzog/conway-game-of-life-api.git
-cd conway-game-of-life-api
+- git clone https://github.com/heitorherzog/conway-game-of-life-api.git
+- cd conway-game-of-life-api
 
 ### Option 1: Run everything with Docker Compose
 
