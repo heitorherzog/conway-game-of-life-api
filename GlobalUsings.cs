@@ -1,0 +1,15 @@
+﻿global using ConwayGameLifeApi.Domain.Entities;
+global using ConwayGameLifeApi.Domain.Exceptions;
+global using ConwayGameLifeApi.Domain.Repositories;
+global using ConwayGameLifeApi.DTOs.Requests;
+global using ConwayGameLifeApi.DTOs.Responses;
+global using ConwayGameLifeApi.Infrastructure.Configuration;
+global using ConwayGameLifeApi.Infrastructure.Initialization;
+global using ConwayGameLifeApi.Infrastructure.Persistence;
+global using ConwayGameLifeApi.Middleware;
+global using ConwayGameLifeApi.Services;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Options;
+global using MongoDB.Driver;
+global using System.Collections.ObjectModel;
+global using System.Text;
